@@ -1,2 +1,2 @@
 # bitnami/nginx-ingress-controller:latest
-bitnami/nginx-ingress-controller:1.11.5
+ingress-nginx/controller:v1.11.5
