@@ -2,5 +2,6 @@
 # registry.k8s.io/ingress-nginx/controller:v1.11.5
 # registry.k8s.io/ingress-nginx/controller:v1.10.7
 # jerrydo/oracle11g
-heartexlabs/label-studio:latest
-pgautoupgrade/pgautoupgrade:13-alpine
+# heartexlabs/label-studio:latest
+# pgautoupgrade/pgautoupgrade:13-alpine
+heartexlabs/label-studio:1.16.0
