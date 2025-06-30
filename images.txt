@@ -5,4 +5,4 @@
 # heartexlabs/label-studio:latest
 # pgautoupgrade/pgautoupgrade:13-alpine
 # heartexlabs/label-studio:1.16.0
-harbocto.boe.com.cn/crow/crow-qin
+nginx:alpine
