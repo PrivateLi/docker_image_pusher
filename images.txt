@@ -5,4 +5,6 @@
 # heartexlabs/label-studio:latest
 # pgautoupgrade/pgautoupgrade:13-alpine
 # heartexlabs/label-studio:1.16.0
-nginx:alpine
+# nginx:alpine
+dinkydocker/dinky-standalone-server:1.2.3-flink1.15
+flink:1.15-scala_2.12-java8
