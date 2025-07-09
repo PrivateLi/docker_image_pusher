@@ -8,6 +8,7 @@
 # nginx:alpine
 # dinkydocker/dinky-standalone-server:1.2.3-flink1.15
 # flink:1.15-scala_2.12-java8
-grafana/loki:latest
-grafana/grafana:latest
-timberio/vector:latest-alpine
+# grafana/loki:latest
+# grafana/grafana:latest
+# timberio/vector:latest-alpine
+apache/dolphinscheduler-standalone-server:3.3.0-alpha
