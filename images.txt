@@ -12,4 +12,6 @@
 # grafana/grafana:latest
 # timberio/vector:latest-alpine
 # apache/dolphinscheduler-standalone-server:3.3.0-alpha
-apache/dolphinscheduler-standalone-server:3.2.2
+# apache/dolphinscheduler-standalone-server:3.2.2
+
+alpine
