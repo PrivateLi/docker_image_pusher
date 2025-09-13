@@ -13,4 +13,5 @@
 # timberio/vector:latest-alpine
 # apache/dolphinscheduler-standalone-server:3.3.0-alpha
 # apache/dolphinscheduler-standalone-server:3.2.2
-n8nio/n8n
+# n8nio/n8n
+ghcr.io/mister-ai/crawl4ai:latest
