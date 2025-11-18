@@ -16,4 +16,4 @@
 # n8nio/n8n
 # unclecode/crawl4ai:latest
 
-bitnami/spark:3.2.4
+openjdk:8
