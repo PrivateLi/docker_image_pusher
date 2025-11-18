@@ -16,4 +16,4 @@
 # n8nio/n8n
 # unclecode/crawl4ai:latest
 
-openjdk:8
+apache/spark:3.2.0-scala2.12-java8
