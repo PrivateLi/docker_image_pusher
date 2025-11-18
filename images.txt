@@ -16,4 +16,4 @@
 # n8nio/n8n
 # unclecode/crawl4ai:latest
 
-apache/spark:3.2.3
+bitnami/spark:3.2.4
