@@ -1,4 +1,4 @@
-# bitnami/nginx-ingress-controller:latest
+bitnami/nginx-ingress-controller:latest
 # registry.k8s.io/ingress-nginx/controller:v1.11.5
 # registry.k8s.io/ingress-nginx/controller:v1.10.7
 # jerrydo/oracle11g
@@ -15,5 +15,3 @@
 # apache/dolphinscheduler-standalone-server:3.2.2
 # n8nio/n8n
 # unclecode/crawl4ai:latest
-
-apache/spark:3.2.0-scala2.12-java8
