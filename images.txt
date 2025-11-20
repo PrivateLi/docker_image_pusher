@@ -15,5 +15,9 @@ registry.k8s.io/ingress-nginx/controller:v1.11.5
 # apache/dolphinscheduler-standalone-server:3.2.2
 # n8nio/n8n
 # unclecode/crawl4ai:latest
+# docker.io/bitnami/minideb:bookworm
 
-docker.io/bitnami/minideb:bookworm
+docker.io/bitnami/jmx-exporter:0.19.0-debian-11-r49
+docker.io/bitnami/kafka-exporter:1.7.0-debian-11-r85
+docker.io/bitnami/kubectl:1.25.12-debian-11-r29
+docker.io/bitnami/os-shell:11-debian-11-r43
