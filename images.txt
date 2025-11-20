@@ -15,3 +15,5 @@ registry.k8s.io/ingress-nginx/controller:v1.11.5
 # apache/dolphinscheduler-standalone-server:3.2.2
 # n8nio/n8n
 # unclecode/crawl4ai:latest
+
+docker.io/bitnami/minideb:bookworm
