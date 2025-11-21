@@ -17,6 +17,8 @@ registry.k8s.io/ingress-nginx/controller:v1.11.5
 # unclecode/crawl4ai:latest
 # docker.io/bitnami/minideb:bookworm
 
-docker.io/bitnami/jmx-exporter:latest
-docker.io/bitnami/kubectl:latest
-docker.io/bitnami/os-shell:latest
+# docker.io/bitnami/jmx-exporter:latest
+# docker.io/bitnami/kubectl:latest
+# docker.io/bitnami/os-shell:latest
+
+gcr.io/kubeflow-images-public/spark-operator:2.4.0
