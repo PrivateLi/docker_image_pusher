@@ -23,4 +23,6 @@ registry.k8s.io/ingress-nginx/controller:v1.11.5
 
 # kubeflow/spark-operator:latest
 
-python:3.9
+# python:3.9
+
+hiyouga/llamafactory:latest
