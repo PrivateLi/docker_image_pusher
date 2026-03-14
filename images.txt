@@ -32,3 +32,4 @@ registry.k8s.io/ingress-nginx/controller:v1.11.5
 # ibmcom/db2:latest
 
 # ghcr.io/openclaw/openclaw:latest
+ghcr.io/openclaw/openclaw:latest
