@@ -38,4 +38,4 @@
 
 # docker.getcollate.io/openmetadata/postgresql:1.12.8
 
-bigtop/slaves:3.5.0-centos-7
+bigtop/slaves:3.6.0-openeuler-22.03
