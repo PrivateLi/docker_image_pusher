@@ -41,4 +41,6 @@
 # bigtop/slaves:3.6.0-openeuler-22.03
 # bigtop/slaves:3.6.0-openeuler-22.03-aarch64
 
-oceanbase/oceanbase-ce:4.4.2-lts
+# oceanbase/oceanbase-ce:4.4.2-lts
+
+dimitri/pgloader:latest
