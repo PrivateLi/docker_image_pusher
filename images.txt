@@ -43,4 +43,7 @@
 
 # oceanbase/oceanbase-ce:4.4.2-lts
 
-dimitri/pgloader:latest
+# dimitri/pgloader:latest
+
+k8s.gcr.io/ingress-nginx/controller:v1.1.3
+k8s.gcr.io/ingress-nginx/kube-webhook-certgen:v1.1.1
