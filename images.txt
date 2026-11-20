@@ -1,1 +1,1 @@
-apache/seatunnel:3.0.0
+nginx:1.31.9
