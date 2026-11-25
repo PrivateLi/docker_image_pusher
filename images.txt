@@ -1,1 +1,1 @@
-datavines/datavines-server:latest
+openjdk:8-jre-slim
