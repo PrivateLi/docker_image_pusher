@@ -1,1 +1,2 @@
 openmetadata/ingestion:2.0.10
+elasticsearch:9.3.0
